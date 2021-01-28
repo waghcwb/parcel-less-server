@@ -1,0 +1,12 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel -p 3002 watch src/*.html src/*.js ",
+    "build": "parcel build src/*.html src/*.js"
+  },
+  "devDependencies": {
+    "less": "^4.1.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
